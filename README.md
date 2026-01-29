@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ketch/AMCS-252-2023/HEAD)
 
 # AMCS 252
-## Spring 2025
+## Spring 2026
 
 [Reading and homework](homework.md)
 
@@ -10,7 +10,7 @@ Location: Building 9, room TBA
 
 
 Instructor: David Ketcheson  
-Instructor's office: Al-Khawarizmi building, Room 4240  
+Instructor's office: Al-Khawarizmi building, Room 4111 
 Office hours: By appointment  
 
 Teaching assistant: Huiteng Li
