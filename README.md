@@ -3,18 +3,18 @@
 # AMCS 252
 ## Spring 2026
 
-[Reading and homework](homework.md)
+[Reading](reading.md)
 
-Time: 8:30-10:00 a.m. every Monday and Thursday  
+Time: 8:40-10:00 a.m. every Monday and Thursday  
 Location: Building 9, room TBA
 
 
 Instructor: David Ketcheson  
 Instructor's office: Al-Khawarizmi building, Room 4111 
-Office hours: By appointment  
+Office hour: Tuesday, 4-5 pm
 
 Teaching assistant: Huiteng Li
-Office hours: TBD
+Office hour: TBD
 
 Textbook: “Finite Difference Methods for Ordinary and Partial Differential Equations”, by R. J. LeVeque.  
 Online textbook: https://epubs.siam.org/doi/book/10.1137/1.9780898717839
