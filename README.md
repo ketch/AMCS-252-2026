@@ -107,6 +107,8 @@ For homework problems that require programming, you must turn in the code used t
 There will be two exams, each covering half of the course material.  These will be administered in class,
 with the first one about halfway through the semester and the second one on the last day of class.
 
+Tentative exam dates: April 13, May 14
+
 ### Tentative grading scale
 
 If your course average falls in the following range, you will receive **at least** that letter grade.
