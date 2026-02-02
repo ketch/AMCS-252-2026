@@ -6,7 +6,7 @@
 [Reading](reading.md)
 
 Time: 8:40-10:00 a.m. every Monday and Thursday  
-Location: Building 9, room TBA
+Location: Building 9, room 3125
 
 
 Instructor: David Ketcheson  
