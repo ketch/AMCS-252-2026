@@ -6,7 +6,7 @@
 [Reading](reading.md)
 
 Time: 8:40-10:00 a.m. every Monday and Thursday  
-Location: Building 9, room TBA
+Location: Building 9, room 3125
 
 
 Instructor: David Ketcheson  
@@ -106,6 +106,8 @@ For homework problems that require programming, you must turn in the code used t
 ### Exams (50%)
 There will be two exams, each covering half of the course material.  These will be administered in class,
 with the first one about halfway through the semester and the second one on the last day of class.
+
+Tentative exam dates: April 13, May 14
 
 ### Tentative grading scale
 
