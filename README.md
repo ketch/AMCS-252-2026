@@ -6,6 +6,9 @@
 [Reading](reading.md)
 
 Time: 8:40-10:00 a.m. every Monday and Thursday  
+
+During Ramadan (Feb. 18 - March 18), we will instead meet at 10:00-10:50.
+
 Location: Building 9, room 3125
 
 
