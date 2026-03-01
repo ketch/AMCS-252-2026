@@ -17,3 +17,7 @@ Remember to turn in Homework set 1.
 ### Feb. 16th: Neumann boundary conditions
 
 Read section 2.12.
+
+### March 1st: Initial Value Problems
+
+Read Chapter 5, up to section 5.3.
